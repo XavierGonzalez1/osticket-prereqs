@@ -35,7 +35,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 First thing you want to do is to create a Virtual MAchine (VM) with Windows 10 pro in Azure Portal. 
 
-***Note***: Size should have atleast 2 vcpus and 8 GIB of memory.
+***Note: Size should have atleast 2 vcpus and 8 GIB of memory.***
 
 ![image](https://github.com/user-attachments/assets/64f5f09c-9aeb-4f5a-aebd-faeff4b9382f)
 <p>
